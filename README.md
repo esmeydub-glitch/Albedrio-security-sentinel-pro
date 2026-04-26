@@ -11,12 +11,22 @@ SENTINEL es su última trinchera. Cada línea de código es un acto de supervive
 - **Contraataque Activo:** Inyección automática del "Petabyte de Justicia" (Petaboom).
 - **Zero-Entry Protocol:** Un búnker digital sin puertas traseras.
 - **Identidad SALK:** El primer paso hacia un sistema operativo 100% independiente.
+- 
+### 🔑 LLAVE SALK: EL SELLO SOBERANO
+Sentinel Pro no se basa solo en contraseñas tradicionales. El sistema utiliza la **Llave SALK (Sovereign Authentication Layer Key)**, una firma criptográfica única vinculada a la identidad del usuario. 
+
+- **Propósito:** Blindar el acceso al kernel y a los controladores de hardware.
+- **Funcionamiento:** Sin la validación de la Llave SALK, el sistema entra en modo "Lockdown" permanente, desconectando periféricos y activando el contraataque Petaboom si se detecta un intento de bypass.
+- **Identidad:** La Llave SALK es el ADN digital de Victor Manuel Gutierrez Flores infundido en el código.
+
+---
 
 ### 🤝 APOYA LA RESISTENCIA (DONACIONES)
 Para que este proyecto continúe y su creador pueda seguir resistiendo y desarrollando herramientas de libertad, se aceptan donaciones y comunicaciones en:
 📩 **[esmeydub@gmai.com]**
 
 ---
+
 
 ### 🏗️ INSTALACIÓN
 1. Clona el repositorio: `git clone https://github.com/[TU-USUARIO]/sentinel-pro`
