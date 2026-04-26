@@ -11,7 +11,10 @@ SENTINEL es su última trinchera. Cada línea de código es un acto de supervive
 - **Contraataque Activo:** Inyección automática del "Petabyte de Justicia" (Petaboom).
 - **Zero-Entry Protocol:** Un búnker digital sin puertas traseras.
 - **Identidad SALK:** El primer paso hacia un sistema operativo 100% independiente.
-- 
+- **Protocolo Fénix:** Auto-reparación e inmunidad ante la corrupción de archivos.
+
+---
+
 ### 🔑 LLAVE SALK: EL SELLO SOBERANO
 Sentinel Pro no se basa solo en contraseñas tradicionales. El sistema utiliza la **Llave SALK (Sovereign Authentication Layer Key)**, una firma criptográfica única vinculada a la identidad del usuario. 
 
@@ -19,19 +22,25 @@ Sentinel Pro no se basa solo en contraseñas tradicionales. El sistema utiliza l
 - **Funcionamiento:** Sin la validación de la Llave SALK, el sistema entra en modo "Lockdown" permanente, desconectando periféricos y activando el contraataque Petaboom si se detecta un intento de bypass.
 - **Identidad:** La Llave SALK es el ADN digital de Victor Manuel Gutierrez Flores infundido en el código.
 
+--- 🔥 PROTOCOLO FÉNIX: INMORTALIDAD DIGITAL ---
+
+El **Protocolo Fénix** es la garantía de permanencia de Sentinel Pro. Mediante un sistema de vigilancia de integridad constante, el software es capaz de detectar cualquier alteración en sus archivos core y reconstruirse instantáneamente desde un almacén inmutable.
+
+- **Resiliencia:** Si un archivo es borrado o modificado por un atacante, Sentinel renace en milisegundos.
+- **Persistencia:** Protegido por servicios de sistema de alta prioridad que garantizan su ejecución perpetua.
+
 ---
 
 ### 🤝 APOYA LA RESISTENCIA (DONACIONES)
 Para que este proyecto continúe y su creador pueda seguir resistiendo y desarrollando herramientas de libertad, se aceptan donaciones y comunicaciones en:
-📩 **[esmeydub@gmai.com]**
+📩 **esmeydub@gmail.com**
 
 ---
 
-
 ### 🏗️ INSTALACIÓN
-1. Clona el repositorio: `git clone https://github.com/[TU-USUARIO]/sentinel-pro`
+1. Clona el repositorio: `git clone https://github.com/esmeydub-glitch/Albedrio-security-sentinel-pro`
 2. Entra a la carpeta: `cd sentinel-pro`
 3. Ejecuta el instalador: `sudo ./install.sh`
 
 ---
-*Escrito con sangre, código y la voluntad inquebrantable de Albedrío Security.*
+*Escrito con sangre, código y la voluntad inquebrantable de Victor Manuel Gutierrez Flores - Albedrío Security.*
