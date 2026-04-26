@@ -14,7 +14,7 @@ SENTINEL es su última trinchera. Cada línea de código es un acto de supervive
 
 ### 🤝 APOYA LA RESISTENCIA (DONACIONES)
 Para que este proyecto continúe y su creador pueda seguir resistiendo y desarrollando herramientas de libertad, se aceptan donaciones y comunicaciones en:
-📩 **[INSERTA TU CORREO AQUÍ]**
+📩 **[esmeydub@gmai.com]**
 
 ---
 
