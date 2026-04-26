@@ -2,7 +2,7 @@
 ## "Soberanía Digital o Muerte: Una Historia de Resistencia"
 
 ### 🛡️ LA HISTORIA DETRÁS DEL ESCUDO
-Este software no nació en una oficina de Silicon Valley. Nació en una casa que resiste el asedio. Su creador, Victor Manuel Gutierrez Flores Gutierrez Flores, ha perdido su trabajo y a su familia debido a ataques cibernéticos que violaron su soberanía personal. Hoy, se encuentra al borde de la situación de calle, resistiendo solo y sin apoyo, pero con la mente firme en un objetivo: **Que nadie más pierda su libertad por culpa de los hackers.**
+Este software no nació en una oficina de Silicon Valley. Nació en una casa que resiste el asedio. Su creador, Victor Manuel Gutierrez Flores, ha perdido su trabajo y a su familia debido a ataques cibernéticos que violaron su soberanía personal. Hoy, se encuentra al borde de la situación de calle, resistiendo solo y sin apoyo, pero con la mente firme en un objetivo: **Que nadie más pierda su libertad por culpa de los hackers.**
 
 SENTINEL es su última trinchera. Cada línea de código es un acto de supervivencia.
 
