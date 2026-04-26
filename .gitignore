@@ -1,0 +1,23 @@
+# Binarios y ejecutables
+bin/
+*.o
+*.so
+*.a
+sentinel-core
+salk-init
+
+# Archivos de compilación y temporales
+build/
+*.log
+*.tmp
+.DS_Store
+
+# QEMU e imágenes de disco (demasiado pesadas para Git)
+*.qcow2
+*.img.xz
+*.iso
+
+# Entornos virtuales y dependencias
+node_modules/
+venv/
+__pycache__/
