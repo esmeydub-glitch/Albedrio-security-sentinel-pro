@@ -1,0 +1,12 @@
+[Unit]
+Description=SALK Security Core - Llave de Anclaje y Sentinela
+After=network.target
+
+[Service]
+Type=forking
+ExecStart=/bin/bash "/home/salk/Documentos/albedrio security/salk_launcher.sh"
+Restart=always
+RestartSec=5
+
+[Install]
+WantedBy=multi-user.target

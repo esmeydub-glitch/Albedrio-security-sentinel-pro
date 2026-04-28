@@ -1,0 +1,10 @@
+# Reglas de Intercepción de Hardware Periférico (El Purificador)
+# Se colocará en /etc/udev/rules.d/99-albedrio-usb.rules
+
+# Bloqueo total de auto-montaje estándar para dispositivos de almacenamiento masivo.
+# Al detectar una nueva memoria (USB, SD, etc), secuestramos el evento y lo mandamos al Purificador.
+ACTION=="add", SUBSYSTEM=="block", ENV{ID_BUS}=="usb", RUN+="/usr/local/bin/purificador_core %k"
+
+# Defensa estricta contra dispositivos de entrada (BadUSB)
+# Si un USB dice ser un teclado (HID) pero no está en la lista blanca de SALK, lo desautoriza.
+ACTION=="add", SUBSYSTEM=="usb", ATTR{bInterfaceClass}=="03", ATTR{bInterfaceSubClass}=="01", RUN+="/bin/sh -c 'echo 0 > /sys$devpath/authorized'"

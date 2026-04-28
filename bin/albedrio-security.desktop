@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Albedrío Security
+Comment=Sistema de Defensa de Resonancia SALK
+Exec=/home/salk/Documentos/albedrio\ security/sentinela/sentinela
+Icon=security-high
+Terminal=false
+Type=Application
+Categories=Security;System;
+Keywords=salk;security;defense;
