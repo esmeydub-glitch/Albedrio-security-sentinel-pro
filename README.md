@@ -19,7 +19,8 @@ Instead of building an antivirus, we built a living ecosystem. An engine that in
 3.  **🕳️ Punishment Multiverse:** A holographic Honeypot built using Namespaces (Network, PID, Mount). Isolates the attacker in a phantom shell, exposing them to 1.5 Terabytes of dynamically generated "bait" files to collapse their disk if they attempt exfiltration.
 4.  **🛰️ Sentinel Radar (Active Defense):** An invisible omni-protocol radar that listens directly on Layer 2 (Raw Sockets). Upon detecting an intrusion, it activates a gravitational Black Hole and deploys **Petaboom** (an automated 100-thread counterattack designed to saturate the enemy network).
 5.  **⚡ The Purifier (Hardware):** Aggressive quarantine and sterilization of peripherals (USB/NFC) by intercepting udev events before the OS mounts them, eradicating BadUSB injections.
-6.  **🦅 Phoenix Protocol:** An agnostic self-repair engine. Audits disk cryptographic hashes against the official OS base (Debian/Arch/Ubuntu). If mutated code (Rootkits) is detected, it downloads the pure version from the official repository and executes a Panic Reboot.
+6.  **🦅 Phoenix Protocol:** An agnostic self-repair engine. Audits disk cryptographic hashes against the official OS base. If mutated code (Rootkits) is detected, it executes a Panic Reboot.
+7.  **🌌 Nebula Engine (Dark Matter):** Controlled traffic obfuscation system. Generates a continuous stream of noise to mask navigation patterns from ISP and Router Deep Packet Inspection (DPI).
 
 ---
 
@@ -70,6 +71,7 @@ Albedrío Security nació de la necesidad de abandonar las arquitecturas de segu
 4.  **🛰️ Sentinela Radar (Defensa Activa):** Radar invisible que activa un Agujero Negro y despliega el **Petaboom** contra el atacante.
 5.  **⚡ El Purificador (Hardware):** Esterilización agresiva de periféricos (USB/NFC) antes de ser montados.
 6.  **🦅 Protocolo Fénix:** Motor de autorreparación que audita hashes contra repositorios oficiales.
+7.  **🌌 Motor Nebulosa (Materia Oscura):** Sistema de ofuscación de tráfico controlado. Genera ruido constante para enmascarar patrones de navegación ante el análisis del Router y el ISP (DPI).
 
 ## ⚖️ Aviso Legal y Ética
 Albedrío Security cuenta con módulos de "Materia Oscura" (código ofensivo automatizado). El uso de este sistema en redes sin autorización es ilegal. El administrador asume total responsabilidad.

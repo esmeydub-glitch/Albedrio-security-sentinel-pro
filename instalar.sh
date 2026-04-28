@@ -11,7 +11,7 @@ usermod -aG salk_auth $USER
 
 # 2. Instalar Binarios de SALK
 echo "[+] Instalando motores de resonancia y defensa..."
-for f in salk_core salk_priv sentinela petaboom albedrio_gui; do
+for f in salk_core salk_priv sentinela petaboom albedrio_gui nebulosa; do
     if [ -f "./$f" ]; then
         cp "./$f" "/usr/bin/$f"
     elif [ -f "./bin/$f" ]; then
