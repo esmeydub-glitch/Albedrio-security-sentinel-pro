@@ -73,5 +73,12 @@ Albedrío Security nació de la necesidad de abandonar las arquitecturas de segu
 6.  **🦅 Protocolo Fénix:** Motor de autorreparación que audita hashes contra repositorios oficiales.
 7.  **🌌 Motor Nebulosa (Materia Oscura):** Sistema de ofuscación de tráfico controlado. Genera ruido constante para enmascarar patrones de navegación ante el análisis del Router y el ISP (DPI).
 
-## ⚖️ Aviso Legal y Ética
-Albedrío Security cuenta con módulos de "Materia Oscura" (código ofensivo automatizado). El uso de este sistema en redes sin autorización es ilegal. El administrador asume total responsabilidad.
+## ⚖️ Aviso Legal y Ética (Blindaje Jurídico)
+Albedrío Security es un sistema de **Legítima Defensa Digital**. Cuenta con módulos de "Materia Oscura" (código ofensivo automatizado como Petaboom). El uso de este sistema en redes externas sin autorización es ilegal y responsabilidad exclusiva del administrador.
+
+### 🛡️ Transparencia y Licenciamiento (GPLv3)
+1.  **Componentes Sensibles:** Partes críticas del sistema (integración con el boot y encriptado de resonancia) se distribuyen en formato binario para proteger el secreto industrial y la integridad del hardware del usuario.
+2.  **Cumplimiento GPL:** El código fuente completo de estos módulos está disponible bajo petición para fines de auditoría, previa verificación de identidad, garantizando que el conocimiento caiga en manos de defensores y no de atacantes.
+3.  **Uso de Señuelos:** El sistema utiliza técnicas de "Honeypot" (Multiverso). Cualquier robo de información dentro de estos entornos es responsabilidad del intruso, ya que el acceso fue no autorizado y sobre datos de señuelo.
+
+© 2024 Victor Manuel Gutierrez Flores (Esme) - Albedrío Security Master Tools.
