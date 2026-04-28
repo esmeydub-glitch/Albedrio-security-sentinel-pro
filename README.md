@@ -73,6 +73,33 @@ Albedrío Security nació de la necesidad de abandonar las arquitecturas de segu
 6.  **🦅 Protocolo Fénix:** Motor de autorreparación que audita hashes contra repositorios oficiales.
 7.  **🌌 Motor Nebulosa (Materia Oscura):** Sistema de ofuscación de tráfico controlado. Genera ruido constante para enmascarar patrones de navegación ante el análisis del Router y el ISP (DPI).
 
+## 🔐 Código Fuente y Política de Seguridad
+
+**Albedrío Security** es un proyecto de **código abierto**, pero por razones de seguridad estratégica y para proteger la integridad del núcleo (Motor de Resonancia SALK, Muralla eBPF, Encriptado de GRUB), el código fuente completo de ciertos binarios sensibles **no se encuentra publicado directamente en este repositorio**.
+
+Sí publicamos el código fuente de los módulos no críticos (Purificador, Nebulosa, Fénix, partes de Sentinela, etc.) para que la comunidad pueda auditar la mayoría del sistema.
+
+### 📥 Solicitud del Código Fuente Completo
+
+Si eres **investigador de seguridad, desarrollador, auditor o usuario avanzado** y necesitas acceder al código fuente completo (incluyendo las partes ofuscadas que generan los binarios) por motivos legítimos, puedes solicitarlo por correo electrónico:
+
+✉️ **`codigo@albedriosecurity.org`**
+
+**Condiciones para acceder al código fuente completo:**
+
+1. **Identificación breve**: Indícanos tu nombre, afiliación (si aplica) y el propósito de tu auditoría o uso.
+2. **Acuerdo de uso ético**: Compromiso por escrito de no utilizar el código para desarrollar malware, vulnerar sistemas ajenos, o vulnerar la integridad del proyecto.
+3. **Confidencialidad**: El código fuente se entrega para tu uso personal o institucional, con el compromiso de no redistribuirlo sin permiso explícito.
+
+El código se entregará en formato legible (`.c`, `.h`, `.cpp`, `Makefile`, scripts) bajo la misma licencia **GPL v3** que rige el proyecto.
+
+### 📦 Para Usuarios Finales
+
+**Los binarios proporcionados en este repositorio (`albedrio_gui`, `salk_core`, `sentinela`, `petaboom`, etc.) son totalmente funcionales y seguros.** No necesitas el código fuente para instalar, configurar y utilizar Albedrío Security en tu sistema. Sigue las instrucciones de instalación en la sección [🚀 Deployment and Installation](#-deployment-and-installation).
+
+> [!NOTE]
+> **Transparencia**: Los binarios no están encriptados (son binarios ELF estándar de Linux). Cualquier experto en ingeniería inversa puede analizarlos con herramientas como `objdump`, `strace` o `Ghidra`. Sin embargo, para facilitar la auditoría y modificación, proporcionamos el código fuente bajo petición a quienes demuestren un uso legítimo.
+
 ## ⚖️ Aviso Legal y Ética (Blindaje Jurídico)
 Albedrío Security es un sistema de **Legítima Defensa Digital**. Cuenta con módulos de "Materia Oscura" (código ofensivo automatizado como Petaboom). El uso de este sistema en redes externas sin autorización es ilegal y responsabilidad exclusiva del administrador.
 
